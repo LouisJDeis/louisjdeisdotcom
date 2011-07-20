@@ -1,0 +1,23 @@
+body{
+	text-align:	center;
+}
+#header{
+	margin: 	0 auto;
+	display:	inline-block;
+	text-align:	center;
+}
+#header .linkbar{
+	display:	inline-block;
+	border-top:	5px solid black;
+	border-bottom:	5px solid black;
+	width:		100%;
+}
+#header .title{
+	font-family:	"Georgia", Times, serif;
+	font-size:	64px;
+}
+#header .link{
+	float:		left;
+	margin-left:	20px;
+	margin-right:	20px;
+}
